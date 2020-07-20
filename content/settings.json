@@ -1,15 +1,14 @@
 {
-  "store_id": 1052,
-  "name": "My Shop",
-  "domain": "ecomplus-storefront.netlify.app",
-  "short_name": "My Shop",
-  "description": "My PWA Shop",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
+  "store_id": 1133,
+  "name": "Camisorama",
+  "domain": "camisorama.netlify.app",
+  "short_name": "camisorama",
+  "description": "A melhor e mais criativa variedade de camisetas, voltadas para uma galera extremamente exigente e profundamente brilhante . São camisetas com alto padrão de qualidade, temperadas com um grande toque de estilo! Faça parte dessa moda :)",
+  "primary_color": "#ffb400",
+  "secondary_color": "#222222",
   "bg_color": "#ffffff",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "_"
   },
   "logo": "/img/uploads/logo.png",
   "mini_logo": "",
